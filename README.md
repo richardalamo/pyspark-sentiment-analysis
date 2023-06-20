@@ -1,8 +1,1 @@
-# K-means-text-clustering
-K-means text clustering portfolio project
-
-#Test
-
-#Test2
-
-#test4
+# PortFolio project still in testing
